@@ -1,2 +1,2 @@
 # my-first-roq-repo
-ROQ repo for software testing bootcamp oct-decemeber 2021
+ROQ repo for software testing bootcamp October-Decemeber 2021
